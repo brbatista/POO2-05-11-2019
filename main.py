@@ -1,9 +1,10 @@
 #Declarando variaveis e setando seus valores
 
-nome = "Beatriz"
+nome = input("O nome da pessoa")
 
-a = 5
-b = 1
+a = input("Valor da variavel a")
+b = input("Valor da variavel b")
+
 soma = a + b
 
 #Condições
